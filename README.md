@@ -14,9 +14,13 @@ Does the new coach's preference for older players impede the club's financial st
 
 | Component               | Tool / Language           | Purpose                                                                                   |
 |-------------------------|--------------------------|-------------------------------------------------------------------------------------------|
-| Data Sourcing           | Kaggle                   | Initial dataset acquisition (Team Lineup & Match Results).                                 |
+| Data Sourcing           | Kaggle                   | Initial dataset acquisition (Team Lineup & Match Results). [ESPN Soccer Data](https://www.kaggle.com/datasets/excel4soccer/espn-soccer-data) |
 | Data Processing         | PostgreSQL               | ETL (Extract, Transform, Load), rigorous cleaning, defining schema (PK/FKs), and extracting specialized datasets. |
 | Analysis & Visualization| R (tidyverse / ggplot2)  | Statistical analysis (mean, standard deviation, linear regression) and generating final visualizations. |
+
+**Data Citation:**  
+- **ESPN Soccer Data (Kaggle)** – Dataset used for team lineups and match results.  
+  [https://www.kaggle.com/datasets/excel4soccer/espn-soccer-data](https://www.kaggle.com/datasets/excel4soccer/espn-soccer-data)  
 
 ---
 
