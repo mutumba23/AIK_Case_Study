@@ -2,7 +2,7 @@
 
 ## 📘 Project Summary
 
-The objective of this analysis was to determine if a correlation exists between the **average starting lineup age** and **match performance (Goals For/Against)** — specifically for the client’s team **AIK (Team ID 994)** — and to compare this trend **before and after** the arrival of the new coach (post–**July 22, 2024**).
+The objective of this analysis was to determine if a correlation exists between the **average starting lineup age** and **match performance (Goals For/Against)**, specifically for the client’s team **AIK (Team ID 994)**,  and to compare this trend **before and after** the arrival of the new coach (post–**July 22, 2024**).
 
 This analysis successfully generated **two key datasets** (views in `SQL_Scripts/final_extraction.sql`) which were visualized using **R** to reveal a conflict between the coach’s **stable, experienced philosophy** and the club’s **financial model**.
 
